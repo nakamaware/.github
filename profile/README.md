@@ -2,6 +2,8 @@
 
 *A Legacy of Craftsmanship, Curiosity, and Collaborative Engineering*
 
+<img width="1536" height="1024" alt="ChatGPT Image 2025年11月22日 01_42_02" src="https://github.com/user-attachments/assets/785fb123-0528-4a17-8349-edcd89ebcf77" />
+
 ## 🌟 Overview
 
 Founded with the spirit of Japanese monozukuri craftsmanship and the relentless curiosity of modern hackers, **Nakamaware** is a collective of engineers, researchers, and creators dedicated to building technology that endures.
