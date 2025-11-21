@@ -1,4 +1,4 @@
-# ⛩️ **Nakamaware Organization**
+# ⛩️ **Nakamaware**
 
 *A Legacy of Craftsmanship, Curiosity, and Collaborative Engineering*
 
